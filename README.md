@@ -7,4 +7,4 @@ This project highlights the importance of using HTML semantics in accessibility 
 
 ## Usage
 
-To use this project, visit https://clagul01.github.io/module-one-challenge/ and open up the chrome developer tools to view the code and see the comments which show where the changes were made.
+To use this project, visit https://clagul01.github.io/module-one-challenge/ to see the webpage, and open up the repository in Github at https://github.com/Clagul01/module-one-challenge to view the code and see the comments which show where the changes were made.
