@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was built as part of the Triology Bootcamp in Front End Engineering as an exercise to practice marking up HTML documents using HTMl semantics.
+This project was built as part of the Triology Bootcamp in Front End Engineering as an exercise to practice marking up HTML documents using HTML semantics.
 This project highlights the importance of using HTML semantics in accessibility and search engine optimisation.
 
 ## Usage
